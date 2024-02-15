@@ -91,9 +91,9 @@ function Contact() {
                <button className='cnt-btn'>Send</button>
             </form> */}
             <div className='contact-icon'>
-                <span><FaLinkedin className='ic' />  LinkedIn</span>
-                <span>< FaGithub className='ic' /> Github</span>
-                <span><FaInstagram className='ic' />  Instagram</span>
+                <a href='https://www.linkedin.com/in/kulender-annapureddy-878b092a5/' target="_blank" rel="noopener noreferrer"><span><FaLinkedin className='ic' />  LinkedIn</span></a>
+                <a href='https://github.com/kulender-Annapureddy' target="_blank" rel="noopener noreferrer"><span>< FaGithub className='ic' /> Github</span></a>
+                <a href='' target="_blank" rel="noopener noreferrer"><span><FaInstagram className='ic' />  Instagram</span></a>
             </div>
         </div>
     </div>

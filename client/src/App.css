@@ -241,12 +241,16 @@ form textarea{
  font-size: 20px;
  cursor: pointer;
 }
-.contact-icon span{
+.contact-icon span {
   display: flex;
  font-size: 18px;
  align-items: center;
  gap: 5px;
  cursor: pointer;
+}
+.contact-icon a{
+  color:white;
+  text-decoration: none;
 }
 .cnt-btn{
   width: 100px;
