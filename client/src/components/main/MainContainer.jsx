@@ -31,7 +31,7 @@ function MainContainer() {
                 
                  <a href='https://github.com/kulender-Annapureddy' target="_blank" rel="noopener noreferrer"><span>< FaGithub className='icon' /> Github</span>
                 <FaExternalLinkAlt className='icon is'/></a>
-                <a href='www.linkedin.com/in/kulender-annapureddy-878b092a5' target="_blank" rel="noopener noreferrer"><span>< FaLinkedin className='icon' /> LinkedIn</span>
+                <a href='https://www.linkedin.com/in/kulender-annapureddy-878b092a5/' target="_blank" rel="noopener noreferrer"><span>< FaLinkedin className='icon' /> LinkedIn</span>
                 <FaExternalLinkAlt className='icon is'/></a>
             </div>
            
