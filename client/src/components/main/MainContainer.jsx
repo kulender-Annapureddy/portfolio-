@@ -18,6 +18,7 @@ function MainContainer() {
         </div>
         <div className='lists'>
         <ul className='list'>
+        <li> <a href='#skilly'>Skills</a></li>
             <li><a href='#projects'>Projects</a></li>
             <li> <a href='#skills'>Work</a></li>
             <li> <a href='#contact'>Contact</a></li>

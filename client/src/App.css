@@ -86,8 +86,8 @@
 .list li{
   cursor: pointer;
   text-align: left;
-  line-height:2.5;
-  font-size: 19px;
+  line-height:2;
+  font-size: 18px;
   color:lightgray;
 }
 .list li a{
@@ -103,7 +103,7 @@
   align-items: center;
   gap: 60px;
   position: absolute;
-  bottom: 15px;
+  bottom: 5px;
   margin-left: -10px;
   
 }
@@ -319,4 +319,56 @@ form textarea{
     margin-left: 5px;
   }
 
+}
+
+.skillbox{
+  width:95%;
+  border: 1px solid white;
+  background: rgb(200, 199, 197);
+  border-radius: 10px;
+  cursor:pointer;
+}
+.skillbox h2{
+  color: black;
+  font-size: 24px;
+  padding-left: 25px;
+}
+.skillcontain{
+  width: 100%;
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.conti{
+  width:150px;
+ margin-top:5px;
+ margin-bottom: 8px;
+  /* border: 1px solid black; */
+}
+.conti p {
+  text-align: center;
+  font-size: 12px;
+  color: black;
+  font-weight: 500;
+  padding-bottom: 20px;
+}
+.imi{
+  width: 100%;
+  display: flex;
+  margin:15px 0px;
+  justify-content: center;
+}
+.im{
+  width:50px;
+  background-color: peru;
+  color:white;
+  border-radius: 10px;
+  padding:10px;
+  
+}
+.reac {
+  font-size: 60px;
+  color:peru;
 }
