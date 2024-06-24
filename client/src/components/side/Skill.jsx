@@ -7,7 +7,7 @@ import apio from '../assets/api.png';
 function Skill() {
   return (
     <div>
-        <div className='skillbox' id='skilly'>
+        <div className='skillbox glass1' id='skilly'>
         <h2>My Skills</h2>
         <div className='skillcontain'>
             <div className='conti'>
